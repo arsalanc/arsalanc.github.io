@@ -3,4 +3,6 @@ navbar:
   title: "Welcome"
   left:
     - text: "About Me"
-      href: index.html
+      href: About.html
+    - text: "Case Study 1"
+      href: Unit_8_9_Case_Study.html
